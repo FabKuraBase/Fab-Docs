@@ -1,6 +1,7 @@
 # Summary
 
 * [introduction](README.md)
+* 3Dプリンタ
 * [はじめに](chapter1.md)
 * [１２３D Desiginで３Dのモデリングをしてみよう](chapter2.md)
 * [CELLPをインストールしよう](chapter3.md)
@@ -8,5 +9,4 @@
 * [モデリングのサンプル](chapter5.md)
 * レーザーカッター
 * [はじめに](article1.md)
-* 3Dプリンタ
 
