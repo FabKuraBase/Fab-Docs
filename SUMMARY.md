@@ -1,7 +1,7 @@
 # Summary
 
 * [introduction](README.md)
-* [3Dプリンタ(chapter1.md)](chapter1.md)
+* [3Dプリンタ](chapter1.md)
    * [はじめに](article1.md)
    * [１２３D Desiginで３Dのモデリングをしてみよう](chapter2.md)
    * [CELLPをインストールしよう](chapter3.md)
