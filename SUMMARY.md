@@ -8,5 +8,5 @@
    * [CellPで３Dプリントしよう](chapter4.md)
    * [モデリングのサンプル](chapter5.md)
 * レーザーカッター
-   * [はじめに](article1.md)
+   * [はじめに](article2-1.md)
 
