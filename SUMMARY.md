@@ -7,6 +7,6 @@
    * [CELLPをインストールしよう](chapter3.md)
    * [CellPで３Dプリントしよう](chapter4.md)
    * [モデリングのサンプル](chapter5.md)
-* レーザーカッター
+* [レーザーカッター](chapter2.md)
    * [はじめに](article2-1.md)
 
