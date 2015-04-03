@@ -6,7 +6,7 @@
    * [１２３D Desiginで３Dのモデリングをしてみよう](article1-2.md)
    * [CELLPをインストールしよう](article1-3.md)
    * [CellPで３Dプリントしよう](article1-4.md)
-   * [モデリングのサンプル](chapter5.md)
+   * [モデリングのサンプル](article1-5.md)
 * [レーザーカッター](chapter2.md)
    * [はじめに](article2-1.md)
 
