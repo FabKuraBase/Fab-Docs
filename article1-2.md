@@ -170,7 +170,7 @@ http://www.123dapp.com/design
 <br>
 ![](3d-2-25.png)
 
-
+![](3d-2-27.png)
 
 出力する場所とファイル名を入力し、[save]を選択します。
 <br>
