@@ -98,3 +98,6 @@ http://www.adobe.com/jp/products/illustrator.html
 Inkscapeの公式サイトにアクセスします。
 http://www.inkscape.org/ja/
 次に上部のバーにあるダウンロードにカーソルを合わせてOSを指定します。
+
+Mac OS の場合
+まずXQuartzをダウンロードします。赤い矢印のところをクリックすると自動的にダウンロードが始まります。
