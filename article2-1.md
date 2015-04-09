@@ -78,9 +78,7 @@
 レーザーカッター用の画像作成には、Adobe　IllustratorまたはInkscapeという画像処理ソフトを使用します。
 
 
-
-Adobe Illustrator導入
-
+1. Adobe Illustratorのインストール
 
 下記のリンクからIllustratorの無料体験版をインストール
 http://www.adobe.com/jp/products/illustrator.html
@@ -91,8 +89,12 @@ http://www.adobe.com/jp/products/illustrator.html
 登録を行うと以下の画面が出てきます。
 「Creative Cloud Installer」をクリックしてください。
 
+![](Ai01.jpg)
 
+![](Ai02.jpg)
+
+2. Inkscapeのインストール
 
 Inkscapeの公式サイトにアクセスします。
 http://www.inkscape.org/ja/
-次に上部のバーにあるダウンロードにマウスオーバーしてOSを指定します。
+次に上部のバーにあるダウンロードにカーソルを合わせてOSを指定します。
