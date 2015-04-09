@@ -92,6 +92,7 @@ http://www.adobe.com/jp/products/illustrator.html
 「Creative Cloud Installer」をクリックしてください。
 
 
+
 Inkscapeの公式サイトにアクセスします。
 http://www.inkscape.org/ja/
 次に上部のバーにあるダウンロードにマウスオーバーしてOSを指定します。
