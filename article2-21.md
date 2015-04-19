@@ -14,7 +14,7 @@ Illustratorを起動したら、新規ドキュメントを作ります。
 <b><font size="4"color="#0000ff">
 ・高さ　　　　458mm</font></b><br>
 <b><font size="4"color="#00ff00">
-・裁ち落とし　    0mm</font></b>
+・裁ち落とし　　 0mm</font></b>
 <br>
 
 
