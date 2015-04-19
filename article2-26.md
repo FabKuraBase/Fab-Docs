@@ -9,11 +9,11 @@ http://boxmaker.rahulbotics.com/
 
 下記の設定を行ってください。
 
-WIDTH       50
-HEIGHT      50
-DEPTH       50
+<b>WIDTH　　　 50</b><br>
+<b>HEIGHT　　　50</b><br>
+<b>DEPTH　　　 50</b><br>
 
-MATERIAL THICKNESS       2
+MATERIAL THICKNESS　　　 2
 
 設定が完了したら[Design it!]を選択してください。
 PDFファイルが作成されます。
