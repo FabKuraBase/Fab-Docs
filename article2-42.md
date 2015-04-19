@@ -8,6 +8,7 @@ box002.ai<br>
 
 今回使うファイルは box001.ai です。
 
+
 ※イラストレーターで開くとこんな感じで表示されます。<br>
 　（この画像は線を見やすくする為にすこし太くしてあります）
 
@@ -15,3 +16,4 @@ box002.ai<br>
 
 次：描画ソフトの準備
 
+[box2.zip](https://github.com/FabKuraBase/Fab-Docs/blob/master/box2.zip)
