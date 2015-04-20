@@ -10,7 +10,8 @@ https://inkscape.org/ja/
 
 インストールが終わったら、Inkscapeを起動してみましょう。
 初回起動時、やや時間がかかる場合があります。
-
+<br>
+![](LC-2-43-01.png)
 
 ※MacでInkscapeを起動した時
 
