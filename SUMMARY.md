@@ -12,6 +12,7 @@
        * [メンテナンス](article2-11.md)
        * [レーザーカッター注意事項](article2-12.md)
    * [Illustratorによるデータ作成](article2-1.md)
+       * [環境設定](article2-20.md)
        * [新規ドキュメント作成](article2-21.md)
        * [ヒトデを描画してみよう](article2-22.md)
        * [レーザーカッター切断用にデータを設定しよう](article2-23.md)
