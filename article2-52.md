@@ -4,7 +4,7 @@
 
 まずはInkscapeの公式サイトにアクセスします。
 <br>
-http://www.inkscape.org/ja/
+http://www.inkscape.org/en/
 
 次に上部のバーにあるダウンロードにマウスオーバーしてOSを指定します。
 <br>
