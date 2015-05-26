@@ -85,8 +85,8 @@ OSXのログインパスワードを入力します。
 
 
 インストールはこれで完了です。
+
 <br>
-![](ink1-15.jpg)
 
 #### Inkscapeの起動(MAC)
 
@@ -96,17 +96,17 @@ OSXのログインパスワードを入力します。
 <br>
 一番下にある「このまま開く」を選択します。
 <br>
-![](ink1-15.jpg)
+![](ink1-16.jpg)
 
 
 このウィンドウが現れるので画面右下の「Browse...」を選択します。<br>
-![](ink1-16.jpg)
+![](ink1-17.jpg)
 
 「アプリケーション」→「ユーティリティ」に XQuartz があります。
 <br>
 XQuartz を指定して「Choose」をクリック。
 <br>
-![](ink1-17.jpg)
+![](ink1-19.jpg)
 
 このまま起動しないので一旦システムを再起動します。
 <br>
@@ -114,11 +114,11 @@ XQuartz を指定して「Choose」をクリック。
 <br>
 OKをクリックします。
 <br>
-![](ink1-18.jpg)
+![](ink1-20.jpg)
 
 Inkscapeが起動します。
 <br>
-![](ink1-19.jpg)
+![](ink1-21.jpg)
 
 
 
@@ -126,17 +126,16 @@ Inkscapeが起動します。
 
 好みの形式を指定してダウンロードサイトにアクセスします。
 <br>
-![](ink1-20.jpg)
+![](ink1-22.jpg)
 
 矢印の部分をクリックしてダウンロードを開始します。
 <br>
-![](ink1-21.jpg)
+![](ink1-23.jpg)
 
 #### インストール方法
 
 特に指定がない場合は「次へ」を押してインストールします。
-<br>
-![](ink1-22.jpg)
+
 
 
 
@@ -144,11 +143,10 @@ Inkscapeが起動します。
 
 「File」から「Inkscape Preferences」を開きます。([shift] + [control] + [P])
 <br>
-![](ink1-23.jpg)
-
-Interfaceを選択してください。<br>
 ![](ink1-24.jpg)
 
+Interfaceを選択してください。
+<br>
 LanguageでJapanese (ja) を選択します。
 <br>
 ![](ink1-25.jpg)
